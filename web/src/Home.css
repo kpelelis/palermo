@@ -1,0 +1,15 @@
+.home > input {
+  margin-top: 30px;
+  line-height: 40px;
+  border-radius: 8px;
+  outline: none;
+  border: 1px solid #48dbfb;
+  padding: 12px;
+  font-size: 20px;
+  text-align: center;
+  color: #37d7fb;
+}
+
+.home > input:focus {
+  box-shadow: 0 0 15px #82e6fc, 0 0 25px #b4f0fd, 0 0 35px #ffffff;
+}
